@@ -1,7 +1,7 @@
 # Basic-Math-Algorythims-small-project
 In math class in 8th grade we had to estimate the roots of a parabola of a quadratic. The method that they used was to create a table and use every different decimal option and see what one was the closest to 0. I didn't like how slow this was so I created a few different  computer algorithms to find what was the most efficient way to find the correct roots
 
-This is a repl.it project which is an online compiler, here is the source code
+This is a repl.it project which is an online compiler, here is the source code and the link to the project (it was coded in python) https://replit.com/join/efvshyqkcc-someonesome
 
 import random
 
